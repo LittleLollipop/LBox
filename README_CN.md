@@ -1,5 +1,7 @@
 # LBox
 
+[English](https://github.com/LittleLollipop/LBox/blob/master/README.md)
+
 ## Logic Box
 
 Logic Box 是一个轻量级的基础抽象逻辑实现包

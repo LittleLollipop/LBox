@@ -1,5 +1,7 @@
 # LBox
 
+[中文](https://github.com/LittleLollipop/LBox/blob/master/README_CN.md)
+
 ## Logic Box
 
 Logic Box is a lightweight implementation package of basic abstract logic
