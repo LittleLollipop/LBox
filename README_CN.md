@@ -2,6 +2,8 @@
 
 [English](https://github.com/LittleLollipop/LBox/blob/master/README.md)
 
+[![](https://www.jitpack.io/v/LittleLollipop/LBox.svg)](https://www.jitpack.io/#LittleLollipop/LBox)
+
 ## Logic Box
 
 Logic Box 是一个轻量级的基础抽象逻辑实现包
