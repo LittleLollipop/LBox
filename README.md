@@ -4,10 +4,10 @@
 
 Logic Box is a lightweight implementation package of basic abstract logic
 These include:
-    State machine
-    Method chain
-    Manifold valve
-    Task trigger
+  + State machine
+  + Method chain
+  + Manifold valve
+  + Task trigger
 
 ## State Machine
 
