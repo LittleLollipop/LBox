@@ -51,6 +51,20 @@ A simple process merging tool, in parallel processing, usually has a certain fun
 Lightweight message queue, for the situation where there are multiple listeners for the same message, different execution levels can be set to process the sequence.
 
 
+## Import
+
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://www.jitpack.io' }
+		}
+	}
+
+
+    dependencies {
+        implementation 'com.github.LittleLollipop:LBox:0.1.5'
+    }
+
 License
 =======
 

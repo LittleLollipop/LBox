@@ -50,7 +50,20 @@ Logic Box 是一个轻量级的基础抽象逻辑实现包
 
 轻量级的消息队列，针对同一条消息有多个监听者的情况，可以设置不同的执行等级来处理先后次序。
 
+## Import
 
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://www.jitpack.io' }
+		}
+	}
+
+
+    dependencies {
+        implementation 'com.github.LittleLollipop:LBox:0.1.5'
+    }
+    
 License
 =======
 
